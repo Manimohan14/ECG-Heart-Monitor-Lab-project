@@ -10,7 +10,8 @@ I'm highly interested in Full Stack Development & Data,Business Analysis. I am v
 
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/1yUUGEaBM0-SLiwd32n0xZ0qqnEW7kU0_?usp=share_link)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Manimohan14)
-[![hackerranka](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/manimohan517)
+[![trailblazer](https://img.shields.io/badge/Trailblazer-000000?style=for-the-badge&logo=Trailblazer&logoColor=white)](https://trailblazer.me/id/manimohan)
+[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/manimohan517)
 [![stack overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16508382/thiriloganathan-manimohan)
 [![solo learn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/15424198) <br>
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:manimohan517@gmail.com)
