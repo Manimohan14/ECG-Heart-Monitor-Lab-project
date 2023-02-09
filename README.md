@@ -23,7 +23,7 @@ I'm highly interested in Full Stack Development & Data,Business Analysis. I am v
 
 ### Streaming on
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.https://www.youtube.com/channel/UCTUPQ-DRjCMSZ419L94xqWw)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCTUPQ-DRjCMSZ419L94xqWw)
 
 
 ### Working as a Freelancer in
