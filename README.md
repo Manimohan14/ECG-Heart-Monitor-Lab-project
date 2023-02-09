@@ -7,7 +7,7 @@ I'm highly interested in Full Stack Development & Data,Business Analysis. I am v
 
 ## 🔗 Explore more about Mani 🚀
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://linktr.ee/manimohan14)
+
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/drive/folders/1yUUGEaBM0-SLiwd32n0xZ0qqnEW7kU0_?usp=share_link)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Manimohan14)
 [![hackerranka](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/manimohan517)
@@ -15,6 +15,7 @@ I'm highly interested in Full Stack Development & Data,Business Analysis. I am v
 [![solo learn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/15424198) <br>
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:manimohan517@gmail.com)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tmanimohan/)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://linktr.ee/manimohan14)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thiriloganathan.manimohan)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ManiMoh45578854)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manimohan_04)
@@ -22,7 +23,7 @@ I'm highly interested in Full Stack Development & Data,Business Analysis. I am v
 
 ### Streaming on
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.https://www.youtube.com/channel/UCTUPQ-DRjCMSZ419L94xqWw)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](www.https://www.youtube.com/channel/UCTUPQ-DRjCMSZ419L94xqWw)
 
 
 ### Working as a Freelancer in
@@ -73,8 +74,8 @@ I'm highly interested in Full Stack Development & Data,Business Analysis. I am v
 ![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white)
 ![adobe photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![adobe lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![adobe after effects](https://img.shields.io/badge/Adobe After Effects-0054F7?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![adobe premierpro](https://img.shields.io/badge/Adobe PremierPro-EA4C89?style=for-the-badge&logo=Adobe%20Premier%20Pro&logoColor=white)
+![adobe after effects](https://img.shields.io/badge/Adobe%20After%20Effects-0054F7?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![adobe premierpro](https://img.shields.io/badge/Adobe%20PremierPro-EA4C89?style=for-the-badge&logo=Adobe%20Premier%20Pro&logoColor=white)
 
 ### Blogging Sites
 
